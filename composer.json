@@ -1,0 +1,14 @@
+{
+    "name": "upeng/upeng",
+    "description": "create your own packageist by composer",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "upeng",
+            "email": "825415473@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
